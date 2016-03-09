@@ -1,0 +1,13 @@
+/*
+Theme Name: Ross Basic Boilerplate
+Theme URI: N/A
+Author: Ross
+Author URI: http://rosswillett.ca
+Description: Ross' Basic Boilerplate Theme
+Version: 1.0
+Tags: mobile responsive, boilerplate
+Text Domain: rossbasicboilerplate
+*/
+html{
+    overflow-x:hidden;
+}
